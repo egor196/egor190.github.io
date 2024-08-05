@@ -124,5 +124,9 @@ body {
 .body{
 	background-color: rgb(111, 114, 76);
 	text-align: center;
-	font-size: 24px;
+	
+}
+.kyza{
+	color:azure;
+	font-size:16px;
 }
