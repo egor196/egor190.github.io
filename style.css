@@ -114,3 +114,9 @@ body {
 	filter: sepia(50%);
 	transform: rotate(-6deg);
 }
+
+.gosha{
+	color: azure;
+	text-align: center;
+	font-size: 24px;
+}
